@@ -1,0 +1,37 @@
+_repo: La-Comedie-humaine-Volume-XV-Etudes-philosophiques_72034
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, Honore de
+    - Saint-Aubin, Horace de
+    - De Balzac, Honoré
+    - Balzac, H. de (Honoré de)
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Honor%C3%A9_de_Balzac
+    - https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac
+description: ''
+gutenberg_issued: '2023-11-05'
+identifiers:
+  gutenberg: '72034'
+language: fr
+pgterms:marc904: https://archive.org/details/oeuvrescomplt15balz/page/n11/mode/2up?view=theater
+pgterms:marc905: 20220709022710debalzac
+pgterms:marc906: '1845'
+pgterms:marc907: fr
+production_note: Claudine Corbasson, Hans Pieterse and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aParis :$bFurne, J. J. Dubochet et Cie, J Hetzel, $c1845.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La Comédie humaine - Volume XV — Études philosophiques
+url: http://www.gutenberg.org/ebooks/72034
